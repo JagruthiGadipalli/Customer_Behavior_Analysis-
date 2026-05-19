@@ -106,8 +106,6 @@ Subscription Analysis
 Purchase Trends
 Age Group Revenue Analysis
 
-Add dashboard screenshots or Power BI report links here.
-
 📈 Key Insights & Results
 🔍 Major Findings
 Subscribers generated higher overall revenue
